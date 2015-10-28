@@ -1,3 +1,5 @@
 git init
 git add
 git commit -m "commit XXX"
+git status 随时掌握工作区的状态
+git diff 查看修改内容
