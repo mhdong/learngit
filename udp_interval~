@@ -9,6 +9,3 @@ UDP header=8bytes
  83×20us=PACKET + 10us + ACK + 50us
  PACKET=192us+MAC+DATA
  PACKET=18bytes + 6bytes + 64bytes + data
- 今天晚上学习了，802.11b的一些具体的数据，打算进一步分析在不同层下面的吞吐量。
- 学好这些之间的关系之后，进一步的分析仿真的实验结果。明天写出下周组会PPT的报告
- 的大纲，尽量在明天后天两天写好PPT。然后以PPT为根基，撰写论文。
