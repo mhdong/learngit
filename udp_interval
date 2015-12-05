@@ -19,3 +19,4 @@ UDP header=8bytes
  1660us = 192us|24bytes MAC header|8bytes|20bytes TP header|8bytes UDP header|74bytes data|4bytes CCR|+10us SIFS+192us|14bytes+50us DIFS
  今天算是很有成就感吧，算是又踏出来了一下下步。
  剩下的二十分钟，写PPT大纲
+ 今天进展不错，思路理顺，仿真实验结果也还差不多。写周报和PPT。然后和老师讨论一下，如果可以，就着手写论文。
